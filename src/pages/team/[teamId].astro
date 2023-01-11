@@ -108,11 +108,11 @@ export async function getStaticPaths() {
 					</div>
 				</section>
 
-				<TeamPagePlayers title='Porteros' players={goalkeepers} />
-				<TeamPagePlayers title='Defensas' players={defenses} />
-				<TeamPagePlayers title='Medios' players={medium} />
-				<TeamPagePlayers title='Delanteros' players={forward} />
-				<TeamPagePlayers title='Jugador 12' players={playersTwelve} />
+				<TeamPagePlayers title='Porteros' team={id} players={goalkeepers} />
+				<TeamPagePlayers title='Defensas' team={id} players={defenses} />
+				<TeamPagePlayers title='Medios' team={id} players={medium} />
+				<TeamPagePlayers title='Delanteros' team={id} players={forward} />
+				<TeamPagePlayers title='Jugador 12' team={id} players={playersTwelve} />
 
 				<div
 					class={'-z-10 absolute inset-0 opacity-5 bg-center bg-[size:250%] transition bg-inherit'}
