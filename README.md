@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#307](https://github.com/midudev/kings-league-project/pull/307) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-2. ❗️ Closed issue [#297](https://github.com/midudev/kings-league-project/issues/297) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-3. 🎉 Merged PR [#319](https://github.com/midudev/kings-league-project/pull/319) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-4. 🎉 Merged PR [#320](https://github.com/midudev/kings-league-project/pull/320) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
-5. 🎉 Merged PR [#311](https://github.com/midudev/kings-league-project/pull/311) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+1. 🎉 Merged PR [#1](https://github.com/maikCyphlock/dollar-frontend-api/pull/1) in [maikCyphlock/dollar-frontend-api](https://github.com/maikCyphlock/dollar-frontend-api)
+2. 🗣 Commented on [#48](https://github.com/midudev/kings-league-project/issues/48) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+3. 🎉 Merged PR [#18](https://github.com/maikCyphlock/chat-react-socketio/pull/18) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
+4. 💪 Opened PR [#49](https://github.com/midudev/kings-league-project/pull/49) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
+5. 💪 Opened PR [#48](https://github.com/midudev/kings-league-project/pull/48) in [midudev/kings-league-project](https://github.com/midudev/kings-league-project)
 <!--END_SECTION:activity-->
 
 
