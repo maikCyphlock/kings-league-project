@@ -186,8 +186,8 @@
       "coach": "Nacho Castro",
       "shortName": "ULT",
       "coachInfo": {
-        "name": "Ultimate Móstoles",
-        "image": "ultimate-mstoles.webp"
+        "name": "Nacho Castro",
+        "image": "nacho-castro.webp"
       },
       "president": {
         "id": "djmariio",
@@ -392,8 +392,8 @@
       "coach": "Julio García Mera",
       "shortName": "1K",
       "coachInfo": {
-        "name": "1K FC",
-        "image": "k-fc.webp"
+        "name": "Julio García Mera",
+        "image": "julio-garca-mera.webp"
       },
       "president": {
         "id": "iker-casillas",
@@ -591,8 +591,8 @@
       "coach": "Daniel Romo",
       "shortName": "SAI",
       "coachInfo": {
-        "name": "Saiyans FC",
-        "image": "saiyans-fc.webp"
+        "name": "Daniel Romo",
+        "image": "daniel-romo.webp"
       },
       "president": {
         "id": "thegrefg",
@@ -790,8 +790,8 @@
       "coach": "Martín Posse",
       "shortName": "KNS",
       "coachInfo": {
-        "name": "Kunisports",
-        "image": "kunisports.webp"
+        "name": "Martín Posse",
+        "image": "martn-posse.webp"
       },
       "president": {
         "id": "kun-aguero",
@@ -996,8 +996,8 @@
       "coach": "Juan Arroita",
       "shortName": "RDB",
       "coachInfo": {
-        "name": "El Barrio",
-        "image": "el-barrio.webp"
+        "name": "Juan Arroita",
+        "image": "juan-arroita.webp"
       },
       "president": {
         "id": "adri-contreras",
@@ -1198,8 +1198,8 @@
       "coach": "Pol Font",
       "shortName": "TFC",
       "coachInfo": {
-        "name": "Los Troncos FC",
-        "image": "los-troncos-fc.webp"
+        "name": "Pol Font",
+        "image": "pol-font.webp"
       },
       "president": {
         "id": "perxitaa",
@@ -1398,8 +1398,8 @@
       "coach": "Juvenal Edjogo",
       "shortName": "POR",
       "coachInfo": {
-        "name": "Porcinos FC",
-        "image": "porcinos-fc.webp"
+        "name": "Juvenal Edjogo-Owono",
+        "image": "juvenal-edjogoowono.webp"
       },
       "president": {
         "id": "ibai-llanos",
@@ -1602,8 +1602,8 @@
       "coach": "JuanluDBZ",
       "shortName": "RDB",
       "coachInfo": {
-        "name": "Rayo de Barcelona",
-        "image": "rayo-de-barcelona.webp"
+        "name": "JuanluDBZ",
+        "image": "juanludbz.webp"
       },
       "president": {
         "id": "spursito",
@@ -1804,8 +1804,8 @@
       "coach": "Marc Carmona",
       "shortName": "JFC",
       "coachInfo": {
-        "name": "Jijantes FC",
-        "image": "jijantes-fc.webp"
+        "name": "Marc Carmona",
+        "image": "marc-carmona.webp"
       },
       "president": {
         "id": "gerard-romero",
@@ -2003,8 +2003,8 @@
       "coach": "Víctor González",
       "shortName": "XBU",
       "coachInfo": {
-        "name": "XBUYER TEAM",
-        "image": "xbuyer-team.webp"
+        "name": "Victor González",
+        "image": "victor-gonzlez.webp"
       },
       "president": {
         "id": "hnos-buyer",
@@ -2202,8 +2202,8 @@
       "coach": "Sergio Verdirame",
       "shortName": "ANI",
       "coachInfo": {
-        "name": "Aniquiladores FC",
-        "image": "aniquiladores-fc.webp"
+        "name": "Sergio Verdirame",
+        "image": "sergio-verdirame.webp"
       },
       "president": {
         "id": "juan-guarnizo",
@@ -2404,8 +2404,8 @@
       "coach": "Gerardo Torrado",
       "shortName": "PIO",
       "coachInfo": {
-        "name": "PIO FC",
-        "image": "pio-fc.webp"
+        "name": "Gerardo Torrado",
+        "image": "gerardo-torrado.webp"
       },
       "president": {
         "id": "rivers",
