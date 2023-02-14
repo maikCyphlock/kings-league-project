@@ -17,7 +17,7 @@
       }
     },
     {
-      "wins": 0,
+      "wins": 5,
       "losses": 1,
       "scoredGoals": 22,
       "concededGoals": 15,
@@ -49,35 +49,35 @@
       }
     },
     {
-      "wins": 1,
-      "losses": 3,
-      "scoredGoals": 15,
-      "concededGoals": 25,
-      "yellowCards": 2,
-      "redCards": 1,
-      "rank": 4,
-      "team": {
-        "id": "los-troncos-fc",
-        "name": "Los Troncos FC",
-        "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
-        "coach": "Pol Font",
-        "shortName": "TFC"
-      }
-    },
-    {
-      "wins": 0,
+      "wins": 4,
       "losses": 2,
       "scoredGoals": 18,
       "concededGoals": 14,
       "yellowCards": 1,
       "redCards": 0,
-      "rank": 5,
+      "rank": 4,
       "team": {
         "id": "ultimate-mostoles",
         "name": "Ultimate Móstoles",
         "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg",
         "coach": "Nacho Castro",
         "shortName": "ULT"
+      }
+    },
+    {
+      "wins": 3,
+      "losses": 3,
+      "scoredGoals": 18,
+      "concededGoals": 17,
+      "yellowCards": 1,
+      "redCards": 0,
+      "rank": 5,
+      "team": {
+        "id": "1k",
+        "name": "1K FC",
+        "image": "https://kingsleague.dev/teams/logos/1k.svg",
+        "coach": "Julio García Mera",
+        "shortName": "1K"
       }
     }
   ],
