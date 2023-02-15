@@ -1,22 +1,22 @@
 [
   {
-    "playerName": "A. Bueno",
-    "gamesPlayed": 5,
-    "assists": 4,
-    "rank": 1,
-    "team": "1K FC",
-    "image": "https://kingsleague.dev/teams/logos/1k.svg"
-  },
-  {
     "playerName": "J. Verdú «Gingko»",
     "gamesPlayed": 5,
-    "assists": 4,
-    "rank": 2,
+    "assists": 5,
+    "rank": 1,
     "team": "Los Troncos FC",
     "image": "https://kingsleague.dev/teams/logos/los-troncos.svg"
   },
   {
-    "playerName": "Espinosa",
+    "playerName": "A. Bueno",
+    "gamesPlayed": 5,
+    "assists": 4,
+    "rank": 2,
+    "team": "1K FC",
+    "image": "https://kingsleague.dev/teams/logos/1k.svg"
+  },
+  {
+    "playerName": "H. Fraile",
     "gamesPlayed": 4,
     "assists": 4,
     "rank": 3,
@@ -24,18 +24,10 @@
     "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
   },
   {
-    "playerName": "H. Fraile",
-    "gamesPlayed": 4,
-    "assists": 4,
-    "rank": 4,
-    "team": "Porcinos FC",
-    "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
-  },
-  {
     "playerName": "Pau ZZ",
     "gamesPlayed": 5,
     "assists": 3,
-    "rank": 5,
+    "rank": 4,
     "team": "El Barrio",
     "image": "https://kingsleague.dev/teams/logos/el-barrio.svg"
   },
@@ -43,9 +35,17 @@
     "playerName": "Coro",
     "gamesPlayed": 5,
     "assists": 3,
-    "rank": 6,
+    "rank": 5,
     "team": "Kunisports",
     "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
+  },
+  {
+    "playerName": "Espinosa",
+    "gamesPlayed": 4,
+    "assists": 3,
+    "rank": 6,
+    "team": "Porcinos FC",
+    "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
   },
   {
     "playerName": "Dani P.",
