@@ -5,7 +5,7 @@
       "losses": 1,
       "scoredGoals": 14,
       "concededGoals": 7,
-      "yellowCards": 6,
+      "yellowCards": 3,
       "redCards": 1,
       "rank": 1,
       "team": {
@@ -33,11 +33,11 @@
       }
     },
     {
-      "wins": 4,
+      "wins": 5,
       "losses": 1,
       "scoredGoals": 13,
       "concededGoals": 8,
-      "yellowCards": 6,
+      "yellowCards": 2,
       "redCards": 0,
       "rank": 3,
       "team": {
@@ -69,7 +69,7 @@
       "losses": 3,
       "scoredGoals": 18,
       "concededGoals": 17,
-      "yellowCards": 1,
+      "yellowCards": 0,
       "redCards": 0,
       "rank": 5,
       "team": {
@@ -138,7 +138,7 @@
       "rank": 1,
       "playerName": "A. Bueno",
       "gamesPlayed": 5,
-      "goals": 6,
+      "goals": 8,
       "team": "1K FC",
       "image": "https://kingsleague.dev/teams/logos/1k.svg",
       "playerImage": "placeholder.png",
@@ -187,27 +187,27 @@
   ],
   "topAssists": [
     {
-      "playerName": "A. Bueno",
-      "gamesPlayed": 5,
-      "assists": 4,
-      "rank": 1,
-      "team": "1K FC",
-      "image": "https://kingsleague.dev/teams/logos/1k.svg",
-      "playerImage": "placeholder.png",
-      "teamId": "1k"
-    },
-    {
       "playerName": "J. Verdú «Gingko»",
       "gamesPlayed": 5,
-      "assists": 4,
-      "rank": 2,
+      "assists": 5,
+      "rank": 1,
       "team": "Los Troncos FC",
       "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
       "playerImage": "placeholder.png",
       "teamId": "los-troncos-fc"
     },
     {
-      "playerName": "Espinosa",
+      "playerName": "A. Bueno",
+      "gamesPlayed": 5,
+      "assists": 4,
+      "rank": 2,
+      "team": "1K FC",
+      "image": "https://kingsleague.dev/teams/logos/1k.svg",
+      "playerImage": "placeholder.png",
+      "teamId": "1k"
+    },
+    {
+      "playerName": "H. Fraile",
       "gamesPlayed": 4,
       "assists": 4,
       "rank": 3,
@@ -217,24 +217,24 @@
       "teamId": "porcinos-fc"
     },
     {
-      "playerName": "H. Fraile",
-      "gamesPlayed": 4,
-      "assists": 4,
-      "rank": 4,
-      "team": "Porcinos FC",
-      "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg",
-      "playerImage": "placeholder.png",
-      "teamId": "porcinos-fc"
-    },
-    {
       "playerName": "Pau ZZ",
       "gamesPlayed": 5,
       "assists": 3,
-      "rank": 5,
+      "rank": 4,
       "team": "El Barrio",
       "image": "https://kingsleague.dev/teams/logos/el-barrio.svg",
       "playerImage": "placeholder.png",
       "teamId": "el-barrio"
+    },
+    {
+      "playerName": "Coro",
+      "gamesPlayed": 5,
+      "assists": 3,
+      "rank": 5,
+      "team": "Kunisports",
+      "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
+      "playerImage": "placeholder.png",
+      "teamId": "kunisports"
     }
   ]
 }
