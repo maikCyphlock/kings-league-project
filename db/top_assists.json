@@ -1,19 +1,19 @@
 [
   {
-    "playerName": "A. Bueno",
-    "gamesPlayed": 7,
-    "assists": 5,
-    "rank": 1,
-    "team": "1K FC",
-    "image": "https://kingsleague.dev/teams/logos/1k.svg"
-  },
-  {
     "playerName": "Coro",
     "gamesPlayed": 7,
     "assists": 5,
-    "rank": 2,
+    "rank": 1,
     "team": "Kunisports",
     "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
+  },
+  {
+    "playerName": "A. Bueno",
+    "gamesPlayed": 7,
+    "assists": 5,
+    "rank": 2,
+    "team": "1K FC",
+    "image": "https://kingsleague.dev/teams/logos/1k.svg"
   },
   {
     "playerName": "Joan Verdú",
