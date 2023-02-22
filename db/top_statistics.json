@@ -83,24 +83,24 @@
   ],
   "mvp": [
     {
-      "playerName": "A. Bueno",
-      "gamesPlayed": 7,
-      "mvps": 2,
-      "rank": 1,
-      "team": "1K FC",
-      "image": "https://kingsleague.dev/teams/logos/1k.svg",
-      "playerImage": "placeholder.png",
-      "teamId": "1k"
-    },
-    {
       "playerName": "F. Hernández",
       "gamesPlayed": 6,
-      "mvps": 2,
-      "rank": 2,
+      "mvps": 3,
+      "rank": 1,
       "team": "Aniquiladores FC",
       "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
       "playerImage": "placeholder.png",
       "teamId": "aniquiladores-fc"
+    },
+    {
+      "playerName": "A. Bueno",
+      "gamesPlayed": 7,
+      "mvps": 2,
+      "rank": 2,
+      "team": "1K FC",
+      "image": "https://kingsleague.dev/teams/logos/1k.svg",
+      "playerImage": "placeholder.png",
+      "teamId": "1k"
     },
     {
       "playerName": "Ubón",
@@ -187,24 +187,24 @@
   ],
   "topAssists": [
     {
-      "playerName": "A. Bueno",
-      "gamesPlayed": 7,
-      "assists": 5,
-      "rank": 1,
-      "team": "1K FC",
-      "image": "https://kingsleague.dev/teams/logos/1k.svg",
-      "playerImage": "placeholder.png",
-      "teamId": "1k"
-    },
-    {
       "playerName": "Coro",
       "gamesPlayed": 7,
       "assists": 5,
-      "rank": 2,
+      "rank": 1,
       "team": "Kunisports",
       "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
       "playerImage": "placeholder.png",
       "teamId": "kunisports"
+    },
+    {
+      "playerName": "A. Bueno",
+      "gamesPlayed": 7,
+      "assists": 5,
+      "rank": 2,
+      "team": "1K FC",
+      "image": "https://kingsleague.dev/teams/logos/1k.svg",
+      "playerImage": "placeholder.png",
+      "teamId": "1k"
     },
     {
       "playerName": "Joan Verdú",

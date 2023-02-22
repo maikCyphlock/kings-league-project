@@ -57,6 +57,14 @@
   },
   {
     "rank": 8,
+    "playerName": "G. Cichero",
+    "gamesPlayed": 7,
+    "goals": 6,
+    "team": "Porcinos FC",
+    "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
+  },
+  {
+    "rank": 9,
     "playerName": "H. Fraile",
     "gamesPlayed": 6,
     "goals": 6,
@@ -64,7 +72,7 @@
     "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
   },
   {
-    "rank": 9,
+    "rank": 10,
     "playerName": "R. Carbó",
     "gamesPlayed": 7,
     "goals": 6,
@@ -72,7 +80,7 @@
     "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
   },
   {
-    "rank": 10,
+    "rank": 11,
     "playerName": "Arché",
     "gamesPlayed": 7,
     "goals": 6,
@@ -80,7 +88,7 @@
     "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
   },
   {
-    "rank": 11,
+    "rank": 12,
     "playerName": "C. Castro",
     "gamesPlayed": 7,
     "goals": 6,
@@ -88,7 +96,7 @@
     "image": "https://kingsleague.dev/teams/logos/xbuyer.svg"
   },
   {
-    "rank": 12,
+    "rank": 13,
     "playerName": "F. Hernández",
     "gamesPlayed": 6,
     "goals": 5,
@@ -96,20 +104,12 @@
     "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg"
   },
   {
-    "rank": 13,
+    "rank": 14,
     "playerName": "E. Álvaro",
     "gamesPlayed": 7,
     "goals": 5,
     "team": "Los Troncos FC",
     "image": "https://kingsleague.dev/teams/logos/los-troncos.svg"
-  },
-  {
-    "rank": 14,
-    "playerName": "G. Cichero",
-    "gamesPlayed": 7,
-    "goals": 5,
-    "team": "Porcinos FC",
-    "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
   },
   {
     "rank": 15,
