@@ -11,10 +11,10 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/maikCyphlock/chat-react-socketio/pull/20) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
-2. 💪 Opened PR [#19](https://github.com/maikCyphlock/chat-react-socketio/pull/19) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
-3. 🎉 Merged PR [#1](https://github.com/maikCyphlock/photo_ia/pull/1) in [maikCyphlock/photo_ia](https://github.com/maikCyphlock/photo_ia)
-4. 💪 Opened PR [#1](https://github.com/maikCyphlock/photo_ia/pull/1) in [maikCyphlock/photo_ia](https://github.com/maikCyphlock/photo_ia)
+1. 🚀 Published release [JsRunner |  beta app ](https://github.com/JsRunner |  beta app ) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
+2. 🚀 Published release [JsRunner |  beta app ](https://github.com/JsRunner |  beta app ) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
+3. 💪 Opened PR [#20](https://github.com/maikCyphlock/chat-react-socketio/pull/20) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
+4. 💪 Opened PR [#19](https://github.com/maikCyphlock/chat-react-socketio/pull/19) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
 5. 🎉 Merged PR [#18](https://github.com/maikCyphlock/chat-react-socketio/pull/18) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
 <!--END_SECTION:activity-->
 
