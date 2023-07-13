@@ -11,8 +11,8 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [JsRunner |  beta app ](https://github.com/JsRunner |  beta app ) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
-2. 🚀 Published release [JsRunner |  beta app ](https://github.com/JsRunner |  beta app ) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
+1. 🚀 Published release [JsRunner |  beta app ](https://github.com/maikCyphlock/jsrunner/releases/tag/v1.0.2) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
+2. 🚀 Published release [JsRunner |  beta app ](https://github.com/maikCyphlock/jsrunner/releases/tag/v1.0.2) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
 3. 💪 Opened PR [#20](https://github.com/maikCyphlock/chat-react-socketio/pull/20) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
 4. 💪 Opened PR [#19](https://github.com/maikCyphlock/chat-react-socketio/pull/19) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
 5. 🎉 Merged PR [#18](https://github.com/maikCyphlock/chat-react-socketio/pull/18) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
