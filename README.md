@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/maikCyphlock/recap/pull/7#issuecomment-1637519492) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-2. 🎉 Merged PR [#1](https://github.com/maikCyphlock/jsrunner/pull/1) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
-3. 🎉 Merged PR [#6](https://github.com/maikCyphlock/recap/pull/6) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-4. 🗣 Commented on [#6](https://github.com/maikCyphlock/recap/pull/6#issuecomment-1635991216) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-5. 💪 Opened PR [#6](https://github.com/maikCyphlock/recap/pull/6) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+1. 💪 Opened PR [#21](https://github.com/maikCyphlock/chat-react-socketio/pull/21) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
+2. 🗣 Commented on [#7](https://github.com/maikCyphlock/recap/pull/7#issuecomment-1637519492) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+3. 🎉 Merged PR [#1](https://github.com/maikCyphlock/jsrunner/pull/1) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
+4. 🎉 Merged PR [#6](https://github.com/maikCyphlock/recap/pull/6) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+5. 🗣 Commented on [#6](https://github.com/maikCyphlock/recap/pull/6#issuecomment-1635991216) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
 <!--END_SECTION:activity-->
 
 
