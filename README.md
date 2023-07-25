@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/maikCyphlock/recap/pull/9#issuecomment-1647340089) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-2. 🗣 Commented on [#8](https://github.com/maikCyphlock/recap/pull/8#issuecomment-1647336211) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-3. 🎉 Merged PR [#4](https://github.com/maikCyphlock/jsrunner/pull/4) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
-4. 🎉 Merged PR [#3](https://github.com/maikCyphlock/jsrunner/pull/3) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
-5. 🗣 Commented on [#2](https://github.com/maikCyphlock/jsrunner/issues/2#issuecomment-1645711497) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
+1. ❗ Opened issue [#5](https://github.com/maikCyphlock/jsrunner/issues/5) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
+2. 🔒 Closed issue [#1](https://github.com/maikCyphlock/jsrunner-website/issues/1) in [maikCyphlock/jsrunner-website](https://github.com/maikCyphlock/jsrunner-website)
+3. 🗣 Commented on [#1](https://github.com/maikCyphlock/jsrunner-website/issues/1#issuecomment-1648766758) in [maikCyphlock/jsrunner-website](https://github.com/maikCyphlock/jsrunner-website)
+4. 🎉 Merged PR [#2](https://github.com/maikCyphlock/jsrunner-website/pull/2) in [maikCyphlock/jsrunner-website](https://github.com/maikCyphlock/jsrunner-website)
+5. 🎉 Merged PR [#3](https://github.com/maikCyphlock/jsrunner-website/pull/3) in [maikCyphlock/jsrunner-website](https://github.com/maikCyphlock/jsrunner-website)
 <!--END_SECTION:activity-->
 
 
