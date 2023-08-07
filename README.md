@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/maikCyphlock/recap/pull/12#issuecomment-1657803625) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-2. 🗣 Commented on [#11](https://github.com/maikCyphlock/recap/pull/11#issuecomment-1657801001) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-3. 🗣 Commented on [#10](https://github.com/maikCyphlock/recap/pull/10#issuecomment-1657799160) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-4. 💪 Opened PR [#254](https://github.com/midudev/pruebas-tecnicas/pull/254) in [midudev/pruebas-tecnicas](https://github.com/midudev/pruebas-tecnicas)
-5. ❗ Opened issue [#5](https://github.com/maikCyphlock/jsrunner/issues/5) in [maikCyphlock/jsrunner](https://github.com/maikCyphlock/jsrunner)
+1. 🗣 Commented on [#14](https://github.com/maikCyphlock/recap/pull/14#issuecomment-1667391577) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+2. 🗣 Commented on [#13](https://github.com/maikCyphlock/recap/pull/13#issuecomment-1667389279) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+3. 🗣 Commented on [#12](https://github.com/maikCyphlock/recap/pull/12#issuecomment-1657803625) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+4. 🗣 Commented on [#11](https://github.com/maikCyphlock/recap/pull/11#issuecomment-1657801001) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+5. 🗣 Commented on [#10](https://github.com/maikCyphlock/recap/pull/10#issuecomment-1657799160) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
 <!--END_SECTION:activity-->
 
 
