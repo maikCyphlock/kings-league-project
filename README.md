@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/maikCyphlock/recap/pull/18#issuecomment-1695196716) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-2. 🗣 Commented on [#17](https://github.com/maikCyphlock/recap/pull/17#issuecomment-1685826672) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-3. 🗣 Commented on [#16](https://github.com/maikCyphlock/recap/pull/16#issuecomment-1676817985) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-4. 🗣 Commented on [#15](https://github.com/maikCyphlock/recap/pull/15#issuecomment-1676807639) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
-5. 🗣 Commented on [#14](https://github.com/maikCyphlock/recap/pull/14#issuecomment-1667391577) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+1. 💪 Opened PR [#22](https://github.com/maikCyphlock/chat-react-socketio/pull/22) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
+2. 🗣 Commented on [#18](https://github.com/maikCyphlock/recap/pull/18#issuecomment-1695196716) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+3. 🗣 Commented on [#17](https://github.com/maikCyphlock/recap/pull/17#issuecomment-1685826672) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+4. 🗣 Commented on [#16](https://github.com/maikCyphlock/recap/pull/16#issuecomment-1676817985) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+5. 🗣 Commented on [#15](https://github.com/maikCyphlock/recap/pull/15#issuecomment-1676807639) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
 <!--END_SECTION:activity-->
 
 
