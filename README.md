@@ -11,11 +11,11 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/maikCyphlock/chat-react-socketio/pull/25) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
-2. 💪 Opened PR [#24](https://github.com/maikCyphlock/chat-react-socketio/pull/24) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
-3. 🎉 Merged PR [#1](https://github.com/maikCyphlock/porfolio-cypher-2023/pull/1) in [maikCyphlock/porfolio-cypher-2023](https://github.com/maikCyphlock/porfolio-cypher-2023)
-4. 💪 Opened PR [#23](https://github.com/maikCyphlock/chat-react-socketio/pull/23) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
-5. 🗣 Commented on [#21](https://github.com/maikCyphlock/recap/pull/21#issuecomment-1713371123) in [maikCyphlock/recap](https://github.com/maikCyphlock/recap)
+1. ❗ Opened issue [#1](https://github.com/maikCyphlock/ecommerce-mik/issues/1) in [maikCyphlock/ecommerce-mik](https://github.com/maikCyphlock/ecommerce-mik)
+2. 💪 Opened PR [#25](https://github.com/maikCyphlock/chat-react-socketio/pull/25) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
+3. 💪 Opened PR [#24](https://github.com/maikCyphlock/chat-react-socketio/pull/24) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
+4. 🎉 Merged PR [#1](https://github.com/maikCyphlock/porfolio-cypher-2023/pull/1) in [maikCyphlock/porfolio-cypher-2023](https://github.com/maikCyphlock/porfolio-cypher-2023)
+5. 💪 Opened PR [#23](https://github.com/maikCyphlock/chat-react-socketio/pull/23) in [maikCyphlock/chat-react-socketio](https://github.com/maikCyphlock/chat-react-socketio)
 <!--END_SECTION:activity-->
 
 
